@@ -1,6 +1,6 @@
-# AssemblyCalculatorProject
+# Assembly Calculator
 
-This is an old Calculator project written in Assembly ;)
+This is an old Calculator Project written in Assembly ;)
 
 ## Files
 
